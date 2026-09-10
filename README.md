@@ -41,9 +41,23 @@ Maha is a Python-based AI Voice Assistant that can understand voice commands and
 
 ## 📂 Project Structure
 
-```text
 Maha-AI-Voice-Assistant/
 │
 ├── voiceassistance.py
 ├── gui.py
 └── README.md
+
+🧠 How It Works
+User speaks
+     ↓
+Speech Recognition
+     ↓
+Convert Speech to Text
+     ↓
+Check the Command
+     ↓
+Perform the Required Action
+     ↓
+Maha Responds
+     ↓
+Text-to-Speech
